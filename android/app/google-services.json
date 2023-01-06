@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "494924308180",
+    "project_id": "textdetection2022",
+    "storage_bucket": "textdetection2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494924308180:android:ef2586ba8380f567336541",
+        "android_client_info": {
+          "package_name": "com.meetpatel.flutter_ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqn3OLkYX_tXu3L2z3zRloeV_kOIVYGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494924308180:android:4c843373e1548590336541",
+        "android_client_info": {
+          "package_name": "com.my.pk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqn3OLkYX_tXu3L2z3zRloeV_kOIVYGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494924308180:android:934befe38e8ce4d3336541",
+        "android_client_info": {
+          "package_name": "com.parul.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494924308180-iv87c3qsqvg2r5lqcn1laa69g6dhbfff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parul.flutter_app",
+            "certificate_hash": "00a023f69f18f8aa2288b806602d0f6bf7201dd3"
+          }
+        },
+        {
+          "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqn3OLkYX_tXu3L2z3zRloeV_kOIVYGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494924308180-48urj1gvhoido3a5uvn2q05dohckn64m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
